@@ -1,0 +1,17 @@
+Loading ansys/2023r1
+  Loading requirement: openmpi/4.1.4
+
+======================================================================================
+                  Resource Usage on 2023-06-08 21:43:52:
+   Job Id:             87182389.gadi-pbs
+   Project:            vp91
+   Exit Status:        0
+   Service Units:      5.08
+   NCPUs Requested:    16                     NCPUs Used: 16              
+                                           CPU Time Used: 01:04:36        
+   Memory Requested:   128.0GB               Memory Used: 63.83GB         
+   NGPUs Requested:    1                 GPU Utilisation: 46%             
+                                         GPU Memory Used: 2.67GB          
+   Walltime requested: 00:40:00            Walltime Used: 00:04:14        
+   JobFS requested:    16.0GB                 JobFS used: 8.13MB          
+======================================================================================
